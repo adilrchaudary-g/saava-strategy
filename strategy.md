@@ -305,6 +305,48 @@ Case studies, testimonials, before/after metrics from real users.
 
 ---
 
+## My Role & Responsibility (Adil)
+
+### What I am
+The strategist and content director. I don't edit. I don't post. I don't build anything technical. I write the words, direct the team, and make sure the machine runs.
+
+### Setup phase (Weeks 1-2): ~8-10 hours total
+- Write the positioning/messaging guide (one-time, 2-3 hours)
+- Batch-write 20 LinkedIn posts (3-4 hours with AI assist)
+- Submit to 5-6 directories (1 hour — filling out forms)
+- Brief editors on style/format/brand (1 hour)
+
+### Ongoing weekly effort: ~4-5 hours/week
+- Write 5 LinkedIn posts for the week (~1.5 hours — AI drafts, I direct and polish)
+- Review and approve video edits from editors (30 min — they cut, I say yes/no)
+- Send editors raw footage from Ibrahim + direction on what to cut (~15 min)
+- One check-in with Ibrahim (30 min call or async voice notes)
+- Monitor metrics + note what's working (~30 min)
+- Community engagement direction — tell Ibrahim/Zain what to comment on, where (~15 min)
+
+### Monthly one-offs: ~3 hours/month
+- Write 2 blog posts (1.5 hours each with AI, or outsource to a writer for $100-200)
+- Month 2: Create lead magnet PDF (2-3 hours one-time)
+- Month 2: Email 10 roundup editors asking for inclusion (1 hour)
+- Month 3: Performance report to Ibrahim (1 hour)
+
+### What I DON'T do
+- Edit video (editors handle it)
+- Record video (Ibrahim handles it)
+- Post to LinkedIn (Ibrahim posts what I write, or we schedule it)
+- Build anything technical (Ibrahim's dev handles blog, email sequences, referral program)
+- Customer support or sales
+- Manage Ibrahim's calendar or ops
+
+### Economics
+- Retainer: $3,500/mo
+- Editor costs (out of retainer): ~$500-800/mo depending on volume
+- Net margin: ~$2,500-3,000/mo
+- Time investment: ~4-5 hours/week (after setup)
+- Effective rate: ~$175-200/hour
+
+---
+
 ## Engagement Terms (Proposed)
 
 **Retainer:** $3,500/month  
