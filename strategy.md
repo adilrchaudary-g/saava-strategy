@@ -6,6 +6,45 @@ Saava.io is a LinkedIn intent data platform that converts engagement signals (li
 
 ---
 
+## Assumptions & Uncertainties
+
+### What we're presuming (confident)
+
+**ICP:** B2B agency owners, SaaS founders, and consultants selling $3K-$50K services. This is directly from Saava's own website — the product is built for these people, the pricing makes sense for them, and the case studies speak to them. We're not guessing here; we're reading what Ibrahim already put on the homepage.
+
+**Ibrahim's attitude:** He wants growth and doesn't care about the "how" as long as it scales and makes money. He's a serial operator, not a first-time founder with emotional attachment to a specific channel. He'll do what works. He's already asked for help — that signals he knows marketing isn't his lane and he wants someone to own it.
+
+**Funding:** He has money. Sold a company, runs a revenue-generating agency. Budget isn't the constraint — attention and execution are. The strategy is built to run on organic (zero ad spend) but he can layer paid amplification on top whenever he wants.
+
+**Product-market fit:** The product works. His own agency uses it. The testimonials cite real metrics (38% reply rates, 32 demos/month). He's not looking for validation — he's looking for distribution.
+
+### What we genuinely don't know (flagged)
+
+**Current user count & MRR** — We don't know if Saava has 10 paying users or 200. This affects how quickly we can solicit G2 reviews, launch a referral program, and generate user-created content. The strategy currently assumes a small base (20-50) and sequences accordingly. If it's higher, some tactics can move earlier. If it's near-zero, the early months lean even heavier on Ibrahim's personal content with zero social proof from strangers.
+
+**Trial-to-paid conversion rate** — We don't know if people who sign up for the free 75 leads actually convert. If conversion is strong (>10%), the entire strategy is about pouring volume into the top of the funnel. If conversion is broken (<3%), we have a leaky bucket problem and content strategy alone won't fix it — onboarding and product experience need attention first. We're assuming it's functional since his own team uses it, but we haven't verified.
+
+**Ibrahim's current LinkedIn activity** — We don't know if he posts regularly, occasionally, or never. If he's already active with 5K+ followers, we're building on a foundation. If he has 200 followers and hasn't posted in 6 months, Month 1 is slower because the algorithm needs to learn him. The strategy assumes he's relatively inactive on Saava-related content since the product has zero visibility.
+
+**Who runs day-to-day at Saava** — Is Ibrahim hands-on with the product, or does a dev team / Zain / someone else manage it? This affects who's available for recording content, who responds to support, and who we coordinate with on blog/email setup. We're assuming Ibrahim is the face but has dev support behind him.
+
+**Competitive response** — We don't know if Trigify or another tool is already working on the same "LinkedIn intent signals" positioning. If someone else claims that category first, we need to move faster or find a sub-niche. Current research shows nobody is — but the market moves fast.
+
+**Whether the testimonials are from real external users or just his inner circle** — The three testimonials on saava.io (Grow Big Ventures, Omni, Holloway Solutions) all appear connected to Ibrahim's network (Grow Big is his own company, Yarden Hofer of Omni is his co-founder at GrowthBridge). If there are zero users outside his immediate circle, the "Proof" content pillar is weaker in Month 1 and we lean on the metrics themselves rather than diverse voices.
+
+### How this affects the plan
+
+None of these unknowns change the *direction* of the strategy. The positioning, content pillars, and channel mix stay the same regardless. What might shift is:
+
+- **Sequencing** — Referral program Month 1 vs. Month 3 depending on user base size
+- **Emphasis** — More "founder story" content early if there's no external social proof yet
+- **Pacing** — If conversion is broken, we pause the volume push and fix the funnel first
+- **Expectations** — If he's starting from near-zero, Month 1 metrics are modest and that's fine
+
+These are details that will become clear within the first week of working together. They don't need to be resolved before signing the engagement.
+
+---
+
 ## The Founder
 
 **Ibraheem Kamal Al Ani**
